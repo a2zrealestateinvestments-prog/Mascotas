@@ -1,0 +1,6 @@
+{
+  "name": "Perro Solo Sin Estrés",
+  "description": "Una landing page de ventas para solucionar la ansiedad por separación en perros usando un método de 14 días sin estrés.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
